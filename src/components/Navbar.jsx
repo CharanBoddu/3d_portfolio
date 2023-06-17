@@ -8,7 +8,15 @@ import {logo, menu, close} from '../assets';
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <nav
+        className={`${styles.paddindX} w-full flex 
+        items-center py-5 fixed top-0 z-20 bg-primary`}
+    >
+    <div className='w-full flex justify-between
+    items-center max-w-7xl mx-auto'> 
+
+    </div>
+    </nav>
   )
 }
 
