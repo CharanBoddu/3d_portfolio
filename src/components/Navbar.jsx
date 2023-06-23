@@ -62,40 +62,42 @@ const Navbar = () => {
             onClick={() => setToggle(!toggle)}
           />
 
-        <div 
-          className={`${!toggle ? 'hidden' : 'flex' }p-6 black-gradient absolute top-20 right-0 mx-4
-           my-2 min-w[140px] z-10 rounded-xl`} >
+<div
+            className={`${
+              !toggle ? "hidden" : "flex"
+            } p-6 black-gradient absolute top-20 right-0 mx-4 my-2 min-w-[140px] z-10 rounded-xl`}
+          >
 
-<ul className="list-none flex
+            <ul className="list-none flex
         justify-end items-start flex-col gap-4">
-          {navLinks.map((Link) => (
-            <li
-              key={Link.id}
-              className={`${active === Link.title
-                ? "text-white"
-                : "text-secondary"
-                } font-poppins font-medium cursor-pointer
+              {navLinks.map((Link) => (
+                <li
+                  key={Link.id}
+                  className={`${active === Link.title
+                    ? "text-white"
+                    : "text-secondary"
+                    } font-poppins font-medium cursor-pointer
                 text-[16px]`}
-              onClick={() => {
-                setToggle(!toggle);
-                setActive(Link.title);}  
-            }
-            >
-              <a
-                href={`#${Link.id}`}>{Link.title}
-              </a>
-            </li>
+                  onClick={() => {
+                    setToggle(!toggle); 
+                    setActive(Link.title);
+                  }}
+                >
+                  <a
+                    href={`#${Link.id}`}>{Link.title}
+                  </a>
+                </li>
 
-          )
+              )
 
-          )}
-        </ul>    
+              )}
+            </ul>
 
-        </div>
+          </div>
         </div>
       </div>
     </nav>
   );
 };
 
-export default Navbar
+export default Navbar ;
