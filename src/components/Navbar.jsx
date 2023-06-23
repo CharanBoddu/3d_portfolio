@@ -11,7 +11,7 @@ const Navbar = () => {
   const [toggle, setToggle] = useState(false);
   return (
     <nav
-      className={`${styles.paddindX} w-full flex 
+      className={`${styles.paddingX} w-full flex 
         items-center py-5 fixed top-0 z-20 bg-primary`}
     >
       <div className='w-full flex justify-between
@@ -27,8 +27,10 @@ const Navbar = () => {
           <img src={logo} alt="logo"
             className='w-9 h-9 object-contain' />
           <p className="text-white text-[18px]
-      font-bold cursor-pointer">Charan <span
-              className='sm:block hidden'>| Charan Boddu</span></p>
+      font-bold cursor-pointer flex">
+        Charan &nbsp;
+          <span
+              className='sm:block flex'>| Charan Boddu</span></p>
 
         </Link>
         <ul className="list-none hidden sm:flex
