@@ -60,6 +60,8 @@ const ComputersCanvas = () => {
 
     window.addEventListener("scroll", handleScroll);
 
+  symbolRef.current.style.transform = `rotate(${window.scrollY}deg)`;
+
     return () => {
       window.removeEventListener("scroll", handleScroll);
     };
