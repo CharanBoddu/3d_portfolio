@@ -98,7 +98,6 @@ const ComputersCanvas = () => {
       height: "50px",
     }}
   >
-    {/* Replace the following with the <img> element referencing your SVG file */}
     <img src={("/src/assets/360.svg")} />
   </div>
     </div>
