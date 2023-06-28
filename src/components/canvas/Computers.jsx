@@ -88,6 +88,7 @@ const ComputersCanvas = () => {
         <Preload all />
       </Canvas>
 
+{/* Code for 360 symbol. */}
       <div
       
     ref={symbolRef}
