@@ -14,6 +14,11 @@ const About = () => {
       <h2 className={styles.sectionHeadText}>Overview.</h2>
     </motion.div>
     
+    <motion.p
+    variants={fadeIn("","",0.1,1)}
+    >
+      Hello, I'm a skilled computer science student.
+    </motion.p>
     </>
   )
 }
