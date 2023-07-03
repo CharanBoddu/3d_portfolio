@@ -131,7 +131,7 @@ import {
       company_name: "Paradies Lagardère",
       icon: paradies,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "June 2023 - Present",
       points: [
         "Exceed First Class Service standards while interacting with all customers, business partners, and peers.",
         "Customers and colleagues should be treated in accordance with the company's fundamental values. Increase client loyalty and sales abilities by using accessible training resources.",
