@@ -25,6 +25,7 @@ import ldanl from "./company/ldanl.png";
 import memorial from "./company/memorial.png"
 import paradies from "./company/paradies.png"
 import collegedunia from "./company/collegedunia.png"
+import ubc from "./company/ubc.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -54,6 +55,7 @@ export {
   threejs,
   ldanl,
   memorial,
+  ubc,
   paradies,
   collegedunia,
   carrent,

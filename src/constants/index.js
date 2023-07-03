@@ -17,6 +17,7 @@ import {
     docker,
     collegedunia,
     ldanl,
+    ubc,
     memorial,
     paradies,
     carrent,
@@ -120,51 +121,25 @@ import {
   ];
 
   const educations = [
+   
     {
-      title: "Global Ambassador",
-      company_name: "CollegeDunia",
-      icon: collegedunia,
-      iconBg: "#383E56",
-      date: "Aug 2020 - October 2020",
-      points: [
-        "Built strong bonds with students and provided ongoing support through successful webinars",
-        "Made a significant impact by facilitating the enrollment of 50 students into international universities through effective communication and dedicated support.",
-      ],
-    },
-    {
-      title: "Sales Associate",
-      company_name: "Paradies Lagardère",
-      icon: paradies,
-      iconBg: "#E6DEDD",
-      date: "June 2023 - Present",
-      points: [
-        "Exceed First Class Service standards while interacting with all customers, business partners, and peers.",
-        "Customers and colleagues should be treated in accordance with the company's fundamental values. Increase client loyalty and sales abilities by using accessible training resources.",
-        "Process all POS transactions quickly and efficiently while adhering to the company's Cash Handling and Loss Prevention Standard Operating Procedures.",
-        "Adhere to strict Transport Canada requirements and maintain entry to restricted areas while working in the secure air side of the airport."
-      ],
-    },
-    {
-      title: "Student Assistant",
-      company_name: "Memorial University of Newfoundland",
+      title: "Memorial University of Newfoundland",
+      company_name: "Bachelor of Science (Computer Science)",
       icon: memorial,
       iconBg: "#383E56",
-      date: "Oct 2021 - Present",
+      date: "September 2021 - April 2024",
+      
       points: [
-        "Expertly managed a diverse range of student services duties, including student advising and coordination of student activities.",
-        "Quickly and effectively answered a high volume of student enquiries, both in person and over the phone, resulting in an impressive customer satisfaction rating of 93%.",
-        "Utilized Student Banner at the Office of the Registrar to generate emails and compile transfer credit, transcripts, and relevant documents efficiently, streamlining processes and saving time."
+        
       ],
     },
     {
-      title: "Mathematics Tutor",
-      company_name: "Learning Disabilities Association of NL",
-      icon: ldanl,
+      title: "University of British Columbia (Okanagan)",
+      company_name: "Bachelor of Science (Computer Science)",
+      icon: ubc,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Sep 2020 - April 2021",
       points: [
-        "Work one-on-one with students with learning disabilities to tutor mathematics and develop tailored teaching strategies and lesson plans to address individual learning difficulties",
-        "Provide personalized guidance and support to students on challenging math assignments and regularly provide feedback to parents about student progress."
       ],
     },
   ];
