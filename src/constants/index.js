@@ -124,7 +124,7 @@ import {
    
     {
       title: "Memorial University of Newfoundland",
-      company_name: "Bachelor of Science (Computer Science) - Dean's List",
+      company_name: "Bachelor of Science (Computer Science)",
       icon: memorial,
       iconBg: "#383E56",
       date: "September 2021 - April 2024", 
