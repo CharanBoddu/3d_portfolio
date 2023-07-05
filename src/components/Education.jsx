@@ -6,6 +6,7 @@ import { educations } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
 
+
 const EducationCard = ({ education }) => (
   <VerticalTimelineElement
     contentStyle={{
@@ -62,6 +63,8 @@ font-semibold" style={{ margin: 0 }}>
 
 const Education = () => {
   return (
+
+    
     <>
       <motion.div
         variants={textVariant()}>
@@ -88,5 +91,22 @@ const Education = () => {
     </>
   )
 }
+
+const BackgroundVideo = () => {
+  return (
+    <div className="background-video">
+      <video
+        src="/path/to/video.mp4"
+        autoPlay
+        loop
+        muted
+        playsInline
+        className="video"
+      />
+    </div>
+  );
+};
+
+
 
 export default SectionWrapper(Education, "education")
