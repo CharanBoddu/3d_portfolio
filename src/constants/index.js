@@ -129,7 +129,7 @@ import {
       iconBg: "#383E56",
       date: "September 2021 - April 2024", 
       points: [
-        "Faculty of Science Dean's List - 2022-2023"
+        "Faculty of Science Dean's List- 2022-2023"
       ],
     },
     {
