@@ -5,6 +5,7 @@ import { styles } from "../styles";
 import { educations } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
+import { Canada } from "../components";
 import backgroundVideo from "./map.mp4";
 
 const EducationCard = ({ education }) => (
@@ -64,6 +65,9 @@ font-semibold" style={{ margin: 0 }}>
 const Education = () => {
   return (   
     <>
+       <div>
+        <img src="Canada" alt="Canada" />
+      </div>
 
   
       <motion.div

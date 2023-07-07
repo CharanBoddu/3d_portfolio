@@ -8,6 +8,7 @@ import Education from './Education';
 import Works from './Works';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
+import Canada from './canada.png';
 
 export {
   Hero,
@@ -22,5 +23,6 @@ export {
   EarthCanvas, 
   BallCanvas, 
   ComputersCanvas, 
-  StarsCanvas
+  StarsCanvas,
+  Canada,
 }
