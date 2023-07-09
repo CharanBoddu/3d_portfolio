@@ -65,9 +65,6 @@ font-semibold" style={{ margin: 0 }}>
 const Education = () => {
   return (   
     <>
-      <img src={Canada} alt="Canada" />
-
-  
       <motion.div
         variants={textVariant()}>
            <p className={`${styles.sectionSubText} text-center`}>
