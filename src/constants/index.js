@@ -21,8 +21,8 @@ import {
     memorial,
     paradies,
     portfolio,
-    jobit,
-    tripguide,
+    summarizer,
+    cantstop,
     threejs,
   } from "../assets";
   
@@ -245,29 +245,29 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: summarizer,
       source_code_link: "https://github.com/Charan1303/ai_summarizer/",
     },
     {
-      name: "Trip Guide",
+      name: "Can't Stop Game",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "Collobarative group-designed Digitalized board game called Can't stop by Sid Sackson using Java GUI, frame etc.",
       tags: [
         {
-          name: "nextjs",
+          name: "Java",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "Interactive GUI",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "UI/UX Designing",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: cantstop,
+      source_code_link: "https://github.com/Charan1303",
     },
   ];
   

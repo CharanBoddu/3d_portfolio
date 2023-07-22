@@ -28,8 +28,8 @@ import collegedunia from "./company/collegedunia.png"
 import ubc from "./company/ubc.png"
 
 import portfolio from "./portfolio.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import summarizer from "./summarizer.png";
+import cantstop from "./cantstop.png";
 
 export {
   logo,
@@ -59,6 +59,6 @@ export {
   paradies,
   collegedunia,
   portfolio,
-  jobit,
-  tripguide,
+  summarizer,
+  cantstop,
 };
