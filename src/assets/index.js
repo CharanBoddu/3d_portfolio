@@ -27,7 +27,7 @@ import paradies from "./company/paradies.png"
 import collegedunia from "./company/collegedunia.png"
 import ubc from "./company/ubc.png"
 
-import carrent from "./carrent.png";
+import portfolio from "./portfolio.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -58,7 +58,7 @@ export {
   ubc,
   paradies,
   collegedunia,
-  carrent,
+  portfolio,
   jobit,
   tripguide,
 };
