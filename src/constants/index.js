@@ -205,7 +205,7 @@ import {
     {
       name: "Personal Portfolio",
       description:
-        "My portfolio websited showcasing my experiences, education designed with ThreeJS, TailWindCSS etc",
+        "My portfolio websited showcasing my experiences, education designed with ThreeJS, TailWindCSS etc.",
       tags: [
         {
           name: "react",
@@ -228,25 +228,25 @@ import {
       source_code_link: "https://github.com/Charan1303/3d_portfolio",
     },
     {
-      name: "Job IT",
+      name: "AI Article Summarizer",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web application that enables users to sumamrizes articles efficiently using Open AI's GPT.",
       tags: [
         {
-          name: "react",
+          name: "reactJS",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "ReduxToolKit",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "TailwindCSS",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Charan1303/ai_summarizer/",
     },
     {
       name: "Trip Guide",
