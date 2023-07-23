@@ -75,6 +75,8 @@ const Contact = () => {
         <p className={styles.sectionSubText}>Get in touch</p>
         <h3 className={styles.sectionHeadText}>Contact.</h3>
 
+        { /*<h3 className={styles.smallSectionSubText}>Email: cboddu03@gmail.com</h3> */ }
+
         <form
           ref={formRef}
           onSubmit={handleSubmit}
