@@ -13,6 +13,10 @@ const styles = {
     sectionSubText:
       "sm:text-[18px] text-[14px] text-secondary uppercase tracking-wider",
     smallSectionSubText: "text-[20px] text-secondary  tracking-wider", 
+
+
+    
   };
+
   
   export { styles };
