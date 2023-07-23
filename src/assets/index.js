@@ -27,6 +27,7 @@ import paradies from "./company/paradies.png"
 import collegedunia from "./company/collegedunia.png"
 import ubc from "./company/ubc.png"
 
+import canada from "./indtocad.png";
 import portfolio from "./portfolio.png";
 import summarizer from "./summarizer.png";
 import cantstop from "./cantstop.png";
@@ -61,4 +62,5 @@ export {
   portfolio,
   summarizer,
   cantstop,
+  canada,
 };

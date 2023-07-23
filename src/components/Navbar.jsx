@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { styles } from '../styles';
 import { navLinks } from '../constants';
 import { logo, menu, close } from '../assets';
+import { canada } from '../assets';
 
 
 const Navbar = () => {
@@ -25,12 +26,12 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt="logo"
-            className='w-9 h-9 object-contain' />
-          <p className="text-white text-[18px]
-      font-bold cursor-pointer flex">
+            className='w-14 h-14 object-contain' />
+          <p className="text-white text-[23px]
+      font-bold cursor-pointer flex items-center ">
         Charan &nbsp;
           <span
-              className='sm:block flex'>| Charan Boddu</span></p>
+              className='sm:block flex-col'>|  <img src={canada} alt="Canada Flag" className='inline-block  h-16 items-center' /> </span></p>
 
         </Link>
         <ul className="list-none hidden sm:flex
