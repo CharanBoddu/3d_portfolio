@@ -225,7 +225,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://3d-portfolio-charan1303.vercel.app/",
+      source_code_link: "https://github.com/Charan1303/3d_portfolio",
     },
     {
       name: "AI Article Summarizer",
