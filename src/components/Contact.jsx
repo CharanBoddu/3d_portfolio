@@ -142,7 +142,7 @@ const Contact = () => {
           </a>
           <a href="https://www.instagram.com/c_haran13/" target="_blank" rel="noreferrer">
             {/* Add your Instagram icon here */}
-            <img src={"https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png"} alt="Instagram" className="w-6 h-6" />
+            <img src={"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"} alt="Instagram" className="w-6 h-6" />
           </a>
         </div>
       </motion.div>
