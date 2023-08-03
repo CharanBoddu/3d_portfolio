@@ -101,7 +101,7 @@ const ComputersCanvas = () => {
       height: "50px",
     }}
   >
-    <img src={("/src/assets/360.svg")} />
+    
   </div>
     </div>
   );
