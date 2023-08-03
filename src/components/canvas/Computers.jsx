@@ -90,7 +90,7 @@ const ComputersCanvas = () => {
 
 {/* Code for 360 symbol. */}
       <div
-      className="symbol-container hidden sm:block"
+      
     ref={symbolRef}
     style={{
       position: "absolute",
