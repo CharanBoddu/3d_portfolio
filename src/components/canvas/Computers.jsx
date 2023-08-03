@@ -1,4 +1,4 @@
-import React, { Suspense, useEffect, useState, useRef } from "react";
+import React, { Suspense, useEffect, useState } from "react";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 
@@ -33,7 +33,7 @@ const Computers = ({ isMobile }) => {
 
 const ComputersCanvas = () => {
   const [isMobile, setIsMobile] = useState(false);
-  const symbolRef = useRef(null);
+ 
 
   useEffect(() => {
     const mediaQuery = window.matchMedia("(max-width: 500px)");
@@ -51,21 +51,6 @@ const ComputersCanvas = () => {
     };
   }, []);
 
-  useEffect(() => {
-    const handleScroll = () => {
-      if (symbolRef.current) {
-        symbolRef.current.style.transform = `rotate(${window.scrollY}deg)`;
-      }
-    };
-
-    window.addEventListener("scroll", handleScroll);
-
-  symbolRef.current.style.transform = `rotate(${window.scrollY}deg)`;
-
-    return () => {
-      window.removeEventListener("scroll", handleScroll);
-    };
-  }, []);
 
   return (
     <div style={{ position: "relative", width: "100%", height: "100vh" }}>
@@ -88,21 +73,7 @@ const ComputersCanvas = () => {
         <Preload all />
       </Canvas>
 
-{/* Code for 360 symbol. */}
-      <div
-      
-    ref={symbolRef}
-    style={{
-      position: "absolute",
-      top: "36%",
-      left: "45%",
-      transform: "translate(-50%, -50%)",
-      width: "50px",
-      height: "50px",
-    }}
-  >
-    
-  </div>
+
     </div>
   );
 };
