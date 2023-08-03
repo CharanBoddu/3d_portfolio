@@ -4,6 +4,14 @@ import {styles} from '../styles'
 import { ComputersCanvas } from './canvas';
  
 const Hero = () => {
+
+  const isMobileDevice = () => {
+    const isMobile =
+      typeof window.orientation !== 'undefined' ||
+      navigator.userAgent.indexOf('IEMobile') !== -1;
+    return isMobile;
+  };
+
   return (
     <section className="relative w-full
       h-screen mx-auto">
@@ -31,6 +39,8 @@ const Hero = () => {
       </div>
       <ComputersCanvas />
 
+{/* Check if it's not a mobile device before rendering the Framer Motion animation */}
+{!isMobileDevice() && (
       <div className='absolute xs:bottom-10 bottom-48 w-full flex justify-center items-center'>
         
   <a href='#about'>
@@ -49,7 +59,7 @@ const Hero = () => {
     </div>
   </a>
 </div>
-
+)}
       </section>
   )
 }
