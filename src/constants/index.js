@@ -147,7 +147,7 @@ import {
   const experiences = [
 
     {
-      title: "Mathematics Tutor",
+      title: "Lead Mathematics Tutor",
       company_name: "Learning Disabilities Association of NL",
       icon: ldanl,
       iconBg: "#E6DEDD",
