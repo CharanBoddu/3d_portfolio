@@ -53,6 +53,18 @@ const ComputersCanvas = () => {
     };
   }, []);
 
+  const [initialized, setInitialized] = useState(false);
+
+  useEffect(() => {
+    if (!initialized) {
+      setInitialized(true);
+    }
+  }, [initialized]);
+
+  if (!initialized) {
+    return <div></div>;
+  }
+
 
   return (
     <div style={{ position: "relative", width: "100%", height: "100vh" }}>
