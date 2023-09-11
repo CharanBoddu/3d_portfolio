@@ -147,14 +147,15 @@ import {
   const experiences = [
 
     {
-      title: "Lead Mathematics Tutor",
+      title: "IT Assistant & Lead Math Tutor",
       company_name: "Learning Disabilities Association of NL",
       icon: ldanl,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
         "Work one-on-one with students with learning disabilities to tutor mathematics and develop tailored teaching strategies and lesson plans to address individual learning difficulties",
-        "Provide personalized guidance and support to students on challenging math assignments and regularly provide feedback to parents about student progress."
+        "Provide personalized guidance and support to students on challenging math assignments and regularly provide feedback to parents about student progress.",
+        "Created and optimized various IT projects, leveraging tools such as Python, SQL, and Microsoft Suite to increase program efficiency and productivity. Facilitated tech assistance, ensuring reliable system functionality and user-friendly aspects. "
       ],
     },
 
