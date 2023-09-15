@@ -226,7 +226,7 @@ import {
         },
       ],
       image: portfolio,
-      source_code_link: "https://github.com/Charan1303/3d_portfolio",
+      source_code_link: "https://github.com/CharanBoddu/3d_portfolio",
     },
     {
       name: "AI Article Summarizer",
@@ -247,7 +247,7 @@ import {
         },
       ],
       image: summarizer,
-      source_code_link: "https://github.com/Charan1303/ai_summarizer/",
+      source_code_link: "https://github.com/CharanBoddu/ai_summarizer",
     },
     {
       name: "Can't Stop Game",
@@ -268,7 +268,7 @@ import {
         },
       ],
       image: cantstop,
-      source_code_link: "https://github.com/Charan1303",
+      source_code_link: "https://github.com/CharanBoddu/CantStop",
     },
   ];
   
