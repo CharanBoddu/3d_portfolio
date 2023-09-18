@@ -31,6 +31,7 @@ import canada from "./indtocad.png";
 import portfolio from "./portfolio.png";
 import summarizer from "./summarizer.png";
 import cantstop from "./cantstop.png";
+import knights from "./knights.png";
 
 export {
   logo,
@@ -62,5 +63,6 @@ export {
   portfolio,
   summarizer,
   cantstop,
+  knights,
   canada,
 };

@@ -22,6 +22,7 @@ import {
     paradies,
     portfolio,
     summarizer,
+    knights,
     cantstop,
     threejs,
   } from "../assets";
@@ -269,6 +270,27 @@ import {
       ],
       image: cantstop,
       source_code_link: "https://github.com/CharanBoddu/CantStop",
+    },
+    {
+      name: "Knight's Game",
+      description:
+        "A video game adaptation of the classic puzzle.",
+      tags: [
+        {
+          name: "Java",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Interactive GUI",
+          color: "green-text-gradient",
+        },
+        {
+          name: "UI/UX Designing",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: knights,
+      source_code_link: "https://github.com/CharanBoddu/Knightsgame",
     },
   ];
   
