@@ -19,6 +19,9 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
+import java from "./tech/java.png";
+import sql from "./tech/sql.png";
+import c from "./tech/c.png";
 import threejs from "./tech/threejs.svg";
 
 import ldanl from "./company/ldanl.png";
@@ -54,6 +57,9 @@ export {
   redux,
   tailwind,
   typescript,
+  c,
+  sql,
+  java,
   threejs,
   ldanl,
   memorial,

@@ -5,6 +5,9 @@ import {
     web,
     javascript,
     typescript,
+    sql,
+    c,
+    java,
     html,
     css,
     reactjs,
@@ -80,8 +83,8 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Java",
+      icon: java,
     },
     {
       name: "React JS",
@@ -100,8 +103,8 @@ import {
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
+      name: "SQL",
+      icon: sql,
     },
     {
       name: "Three JS",
@@ -116,8 +119,8 @@ import {
       icon: figma,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "c",
+      icon: c,
     },
   ];
 
