@@ -164,20 +164,6 @@ import {
     },
 
     {
-      title: "Sales Associate",
-      company_name: "Paradies Lagardère",
-      icon: paradies,
-      iconBg: "#E6DEDD",
-      date: "June 2023 - Present",
-      points: [
-        "Exceed First Class Service standards while interacting with all customers, business partners, and peers.",
-        "Customers and colleagues should be treated in accordance with the company's fundamental values. Increase client loyalty and sales abilities by using accessible training resources.",
-        "Process all POS transactions quickly and efficiently while adhering to the company's Cash Handling and Loss Prevention Standard Operating Procedures.",
-        "Adhere to strict Transport Canada requirements and maintain entry to restricted areas while working in the secure air side of the airport."
-      ],
-    },
-
-    {
       title: "Student Assistant",
       company_name: "Memorial University of Newfoundland",
       icon: memorial,
@@ -187,6 +173,20 @@ import {
         "Expertly managed a diverse range of student services duties, including student advising and coordination of student activities.",
         "Quickly and effectively answered a high volume of student enquiries, both in person and over the phone, resulting in an impressive customer satisfaction rating of 93%.",
         "Utilized Student Banner at the Office of the Registrar to generate emails and compile transfer credit, transcripts, and relevant documents efficiently, streamlining processes and saving time."
+      ],
+    },
+
+    {
+      title: "Sales Associate",
+      company_name: "Paradies Lagardère",
+      icon: paradies,
+      iconBg: "#E6DEDD",
+      date: "June 2023 - September 2023",
+      points: [
+        "Exceed First Class Service standards while interacting with all customers, business partners, and peers.",
+        "Customers and colleagues should be treated in accordance with the company's fundamental values. Increase client loyalty and sales abilities by using accessible training resources.",
+        "Process all POS transactions quickly and efficiently while adhering to the company's Cash Handling and Loss Prevention Standard Operating Procedures.",
+        "Adhere to strict Transport Canada requirements and maintain entry to restricted areas while working in the secure air side of the airport."
       ],
     },
     
