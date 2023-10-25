@@ -251,7 +251,7 @@ import {
         },
       ],
       image: summarizer,
-      source_code_link: "https://github.com/CharanBoddu/ai_summarizer",
+      source_code_link: "https://cboddu-aisummarizer.vercel.app/",
     },
     {
       name: "Can't Stop Game",
