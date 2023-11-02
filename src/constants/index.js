@@ -20,6 +20,7 @@ import {
     docker,
     collegedunia,
     ldanl,
+    carnegie,
     ubc,
     memorial,
     paradies,
@@ -149,6 +150,17 @@ import {
   ];
   
   const experiences = [
+
+    {
+      title: "Front-End Web Developer",
+      company_name: "Carnegie Learning",
+      icon: carnegie,
+      iconBg: "#E6DEDD",
+      date: "Jan 2024 - Decemeber 2024",
+      points: [
+        "More information to be coming soon."
+      ],
+    },
 
     {
       title: "IT Assistant & Lead Math Tutor",

@@ -25,6 +25,7 @@ import c from "./tech/c.png";
 import threejs from "./tech/threejs.svg";
 
 import ldanl from "./company/ldanl.png";
+import carnegie from "./company/cl.png";
 import memorial from "./company/memorial.png"
 import paradies from "./company/paradies.png"
 import collegedunia from "./company/collegedunia.png"
@@ -62,6 +63,7 @@ export {
   java,
   threejs,
   ldanl,
+  carnegie,
   memorial,
   ubc,
   paradies,
