@@ -1,7 +1,7 @@
 ## 3D Portfolio
 
 The following is the link to the portfolio website:
-https://3d-portfolio-charan1303.vercel.app/
+[https://portfolio-cboddu.vercel.app/](https://portfolio-cboddu.vercel.app/)
 
 In the project directory, you can run:
 
