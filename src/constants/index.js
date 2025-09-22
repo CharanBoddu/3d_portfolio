@@ -158,7 +158,14 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2024 - Decemeber 2024",
       points: [
-        "More information to be coming soon."
+        "Built and optimized Angular components for Quality Assurance workflows using Typescript and Angular CLI,
+ integrating REST APIs to fetch data from servers and streamlining QA processes.",
+          "Resolved bugs and enhanced UI stability on the dashboard, conducting comprehensive testing to improve
+ reliability, developer experience, and minimize API call overhead.",
+          "Collaborated closely with cross-functional teams, including senior developers and QA engineers, within an Agile
+ (Scrum) framework, utilizing Jira for task management and sprint planning to ensure timely feature delivery.",
+          "Managed codebase using Git and Bitbucket, adhering to team standards by creating feature branches, submitting
+ pull requests (PRs), and actively participating in code reviews to maintain high code quality and consistency."
       ],
     },
 
