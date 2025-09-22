@@ -156,7 +156,7 @@ import {
       company_name: "Carnegie Learning",
       icon: carnegie,
       iconBg: "#E6DEDD",
-      date: "Jan 2024 - Decemeber 2024",
+      date: "Jan 2024 - Jan 2025",
        points: [
       `Built and optimized Angular components for Quality Assurance workflows using TypeScript and Angular CLI, integrating REST APIs to fetch data from servers and streamlining QA processes.`,
       `Resolved bugs and enhanced UI stability on the dashboard, conducting comprehensive testing to improve reliability, developer experience, and minimize API call overhead.`,
@@ -183,7 +183,7 @@ import {
       company_name: "Memorial University of Newfoundland",
       icon: memorial,
       iconBg: "#383E56",
-      date: "Oct 2021 - Present",
+      date: "Oct 2021 - Apr 2025",
       points: [
         "Expertly managed a diverse range of student services duties, including student advising and coordination of student activities.",
         "Quickly and effectively answered a high volume of student enquiries, both in person and over the phone, resulting in an impressive customer satisfaction rating of 93%.",
