@@ -34,6 +34,7 @@ import ubc from "./company/ubc.png"
 
 import canada from "./indtocad.png";
 import portfolio from "./portfolio.png";
+import dynamicflight from "./dynamicflight.jpg";
 import summarizer from "./summarizer.png";
 import cantstop from "./cantstop.png";
 import knights from "./knights.png";
@@ -71,6 +72,7 @@ export {
   paradies,
   collegedunia,
   portfolio,
+  dynamicflight,
   summarizer,
   cantstop,
   knights,

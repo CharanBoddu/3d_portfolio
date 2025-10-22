@@ -26,6 +26,7 @@ import {
     potsdam,
     paradies,
     portfolio,
+    dynamicflight,
     summarizer,
     knights,
     cantstop,
@@ -237,6 +238,31 @@ import {
   
   
   const projects = [
+    {
+      name: "Dynamic Flight Simulator",
+      description:
+        "Engineered an action-based flight simulator using Three.js, implementing procedural content generation with Perlin noise to create unique, replayable flight paths and dynamic terrains.",
+      tags: [
+        {
+          name: "Three.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "AI",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Perlin noise",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "framermotion",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: dynamicflight,
+      source_code_link: "https://github.com/CharanBoddu/Dynamic-Flight-Simulator",
+    },
     {
       name: "Personal Portfolio",
       description:
