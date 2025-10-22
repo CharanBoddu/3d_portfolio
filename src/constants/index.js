@@ -23,6 +23,7 @@ import {
     carnegie,
     ubc,
     memorial,
+    potsdam,
     paradies,
     portfolio,
     summarizer,
@@ -132,9 +133,20 @@ import {
       company_name: "Bachelor of Science (Computer Science)",
       icon: memorial,
       iconBg: "#383E56",
-      date: "September 2021 - April 2024", 
+      date: "September 2021 - December 2025", 
       points: [
         "Faculty of Science Dean's List- 2022-2023"
+      ],
+    },
+
+    {
+      title: "Universität Potsdam",
+      company_name: "Exchange Semeseter (German)",
+      icon: potsdam,
+      iconBg: "#383E56",
+      date: "April 2025 - September 2025", 
+      points: [
+        "Potsdam Exchange Scholarship from the Federal Republic of Germany."
       ],
     },
     {
@@ -152,29 +164,32 @@ import {
   const experiences = [
 
     {
-      title: "Front-End Web Developer",
+      title: "Software Developer",
       company_name: "Carnegie Learning",
       icon: carnegie,
       iconBg: "#E6DEDD",
       date: "Jan 2024 - Jan 2025",
        points: [
-      `Built and optimized Angular components for Quality Assurance workflows using TypeScript and Angular CLI, integrating REST APIs to fetch data from servers and streamlining QA processes.`,
-      `Resolved bugs and enhanced UI stability on the dashboard, conducting comprehensive testing to improve reliability, developer experience, and minimize API call overhead.`,
-      `Collaborated closely with cross-functional teams, including senior developers and QA engineers, within an Agile (Scrum) framework, utilizing Jira for task management and sprint planning to ensure timely feature delivery.`,
-      `Managed codebase using Git and Bitbucket, adhering to team standards by creating feature branches, submitting pull requests (PRs), and actively participating in code reviews to maintain high code quality and consistency.`
+      `Cleaned and standardized student data using Python and SQL, applying schema design principles to ensure accurate reporting across dashboards, and automated dataset uploads to AWS S3 for secure, centralized access and seamless integration with analytics tools.`,
+      `Automated data set uploads and access management in AWS S3, ensuring secure, centralized storage, and seamless integration with visualization tools.`,
+      `Developed and maintained responsive, data-driven dashboards using Angular, TypeScript, and D3.js, improving page load time by ~25% and enabling real-time student performance insights for over 4,000+ users`,
+      `Designed, built and optimized Angular components for QA workflows using TypeScript and Angular CLI, integrating REST APIs and optimized data fetching workflows to cut API call overhead by ~20%, improving overall UI stability and responsiveness.`,
+      `Conducted comprehensive testing and debugging, improving reliability and developer experience while minimizing recurring production issues.`,
+      `Collaborated in Agile Scrum teams, actively participating in sprint planning, utilizing Jira for task management, backlog grooming, and stakeholder demos to deliver features on time and aligned with business goals`,
+      `Managed codebase using Git and Bitbucket, adhering to team standards by creating feature branches, submitting pull requests (PRs) and actively participating in code reviews to maintain high code quality and consistency.`
     ],
     },
 
     {
-      title: "IT Assistant & Lead Math Tutor",
+      title: "Tutoring Coordination Assistant & Lead Mathematics Tutor",
       company_name: "Learning Disabilities Association of NL",
       icon: ldanl,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Work one-on-one with students with learning disabilities to tutor mathematics and develop tailored teaching strategies and lesson plans to address individual learning difficulties",
-        "Provide personalized guidance and support to students on challenging math assignments and regularly provide feedback to parents about student progress.",
-        "Created and optimized various IT projects, leveraging tools such as Python, SQL, and Microsoft Suite to increase program efficiency and productivity. Facilitated tech assistance, ensuring reliable system functionality and user-friendly aspects. "
+        "Coached students with learning disabilities one-on-one, creating tailored teaching plans and fostering measurable improvement in math skills within a month. ",
+        "Optimized and developed the Learner Intake Academic Screening program and Adult Literacy Support initiative, streamlining note-keeping and tutor support processes",
+        "Mentored and trained new tutors, sharing best practices and resources to ensure quality instructional delivery across the program."
       ],
     },
 
