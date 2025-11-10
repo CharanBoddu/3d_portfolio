@@ -26,11 +26,12 @@ import threejs from "./tech/threejs.svg";
 
 import ldanl from "./company/ldanl.png";
 import carnegie from "./company/cl.png";
-import memorial from "./company/memorial.png"
-import potsdam from "./company/potsdam.png"
-import paradies from "./company/paradies.png"
-import collegedunia from "./company/collegedunia.png"
-import ubc from "./company/ubc.png"
+import memorial from "./company/memorial.png";
+import potsdam from "./company/potsdam.png";
+import paradies from "./company/paradies.png";
+import collegedunia from "./company/collegedunia.png";
+import ubc from "./company/ubc.png";
+import statefarm from "./company/statefarm.png";
 
 import canada from "./indtocad.png";
 import portfolio from "./portfolio.png";
@@ -66,6 +67,7 @@ export {
   threejs,
   ldanl,
   carnegie,
+  statefarm,
   memorial,
   potsdam,
   ubc,

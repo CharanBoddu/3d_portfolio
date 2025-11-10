@@ -21,6 +21,7 @@ import {
     collegedunia,
     ldanl,
     carnegie,
+    statefarm,
     ubc,
     memorial,
     potsdam,
@@ -178,6 +179,21 @@ import {
       `Conducted comprehensive testing and debugging, improving reliability and developer experience while minimizing recurring production issues.`,
       `Collaborated in Agile Scrum teams, actively participating in sprint planning, utilizing Jira for task management, backlog grooming, and stakeholder demos to deliver features on time and aligned with business goals`,
       `Managed codebase using Git and Bitbucket, adhering to team standards by creating feature branches, submitting pull requests (PRs) and actively participating in code reviews to maintain high code quality and consistency.`
+    ],
+    },
+
+     {
+      title: "Data Engineering Intern",
+      company_name: "State Farm Insurance",
+      icon: statefarm,
+      iconBg: "#E6DEDD",
+      date: "Apr 2022 - Sep 2022",
+       points: [
+      `Architected scalable AWS data infrastructure using Glue, Lambda, S3, Redshift, and Athena, building fault-tolerant pipelines that processed millions of insurance records daily, enabling predictive modeling and analytics workflows for finance and actuarial teams.`,
+      `Engineered production-grade ETL pipelines using Python, PySpark, and Terraform, automating complex data transformations that eliminated 30% of manual processing effort, accelerating time-to-insight from days to hours for analytics teams.`,
+      `Optimized PostgreSQL database performance, implementing schema design principles, indexing strategies, and query optimization techniques that reduced query execution times by up to 40%, ensuring scalable data architecture for analytics workloads.`,
+      `Partnered with cross-functional stakeholders to translate business requirements into technical solutions, researching internal/external data sources and delivering analytics-ready data assets that enabled data-driven decision-making across product teams.`,
+      `Championed GitOps best practices, implementing version control workflows, automated testing, and CI/CD pipelines through GitHub that streamlined deployment processes and maintained 99%+ code quality standards across data engineering initiatives.`,
     ],
     },
 

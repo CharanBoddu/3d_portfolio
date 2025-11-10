@@ -1,0 +1,11 @@
+Model Information:
+* title:	6 Props
+* source:	https://sketchfab.com/3d-models/6-props-ff2e9985c03a4d789ea5ca4a5e3dd181
+* author:	Korra (https://sketchfab.com/Korpselene)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "6 Props" (https://sketchfab.com/3d-models/6-props-ff2e9985c03a4d789ea5ca4a5e3dd181) by Korra (https://sketchfab.com/Korpselene) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
