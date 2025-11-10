@@ -237,17 +237,17 @@ import {
       ],
     },
     
-    {
-      title: "Global Ambassador",
-      company_name: "CollegeDunia",
-      icon: collegedunia,
-      iconBg: "#383E56",
-      date: "Aug 2020 - October 2020",
-      points: [
-        "Built strong bonds with students and provided ongoing support through successful webinars",
-        "Made a significant impact by facilitating the enrollment of 50 students into international universities through effective communication and dedicated support.",
-      ],
-    },
+    // {
+    //   title: "Global Ambassador",
+    //   company_name: "CollegeDunia",
+    //   icon: collegedunia,
+    //   iconBg: "#383E56",
+    //   date: "Aug 2020 - October 2020",
+    //   points: [
+    //     "Built strong bonds with students and provided ongoing support through successful webinars",
+    //     "Made a significant impact by facilitating the enrollment of 50 students into international universities through effective communication and dedicated support.",
+    //   ],
+    // },
     
    
   ];
